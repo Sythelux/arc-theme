@@ -4,9 +4,9 @@ INKSCAPE="/usr/bin/inkscape"
 OPTIPNG="/usr/bin/optipng"
 
 SRC_FILE="assets.svg"
-DARK_SRC_FILE="assets-dark.svg"
+DARK_SRC_FILE="assets-syd.svg"
 ASSETS_DIR="assets"
-DARK_ASSETS_DIR="assets-dark"
+DARK_ASSETS_DIR="assets-syd"
 
 INDEX="assets.txt"
 

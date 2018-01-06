@@ -22,7 +22,7 @@
     <linearGradient
        id="linearGradient6651">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#D89840;stop-opacity:1;"
          offset="0"
          id="stop6653" />
     </linearGradient>
@@ -30,7 +30,7 @@
        id="selected_fg_color"
        osb:paint="solid">
       <stop
-         style="stop-color:#ffffffgit;stop-opacity:1;"
+         style="stop-color:#D89840git;stop-opacity:1;"
          offset="0"
          id="stop6555" />
     </linearGradient>
@@ -38,7 +38,7 @@
        id="selected_bg_color"
        osb:paint="solid">
       <stop
-         style="stop-color:#5294e2;stop-opacity:1;"
+         style="stop-color:#61806a;stop-opacity:1;"
          offset="0"
          id="stop5956" />
     </linearGradient>
@@ -459,7 +459,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#D89840"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
@@ -600,7 +600,7 @@
       </g>
       <g
          inkscape:label="Ebene 1"
-         id="checkbox-checked-dark-7"
+         id="checkbox-checked-syd-7"
          transform="translate(36,-1036)"
          style="display:inline">
         <g
@@ -700,7 +700,7 @@
       </g>
       <g
          inkscape:label="Ebene 1"
-         id="checkbox-checked-dark-7-9"
+         id="checkbox-checked-syd-7-9"
          transform="translate(36,-1036)"
          style="display:inline">
         <g
@@ -976,7 +976,7 @@
                ry="11"
                rx="11" />
             <circle
-               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#D89840;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="path3759-7"
                cx="41"
                cy="1041.3622"
@@ -1091,7 +1091,7 @@
                ry="11"
                rx="11" />
             <circle
-               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#D89840;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="path3759-1-7"
                cx="41"
                cy="1041.3622"
@@ -1140,7 +1140,7 @@
              id="g5400-2">
             <rect
                ry="2"
-               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#cfd6e6;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#D89840;fill-opacity:1;stroke:#cfd6e6;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
                id="rect5147-9-1-5-7-6-3"
                width="13"
                height="12.999997"
@@ -1180,7 +1180,7 @@
                  id="g5428-8-1-7-83">
                 <rect
                    ry="13.246163"
-                   style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#cfd6e6;stroke-width:2.08222365;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+                   style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#D89840;fill-opacity:1;fill-rule:nonzero;stroke:#cfd6e6;stroke-width:2.08222365;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
                    id="rect5147-9-1-7-7"
                    width="27.303804"
                    height="26.835894"
@@ -1246,7 +1246,7 @@
       </g>
       <g
          inkscape:label="Ebene 1"
-         id="checkbox-checked-dark-7-95"
+         id="checkbox-checked-syd-7-95"
          transform="translate(36,-1036)"
          style="display:inline">
         <g
@@ -1346,7 +1346,7 @@
       </g>
       <g
          inkscape:label="Ebene 1"
-         id="checkbox-checked-dark-7-9-57"
+         id="checkbox-checked-syd-7-9-57"
          transform="translate(36,-1036)"
          style="display:inline">
         <g
@@ -1556,7 +1556,7 @@
              id="g5400-2-4">
             <rect
                ry="2"
-               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#cfd6e6;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#D89840;fill-opacity:1;stroke:#cfd6e6;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
                id="rect5147-9-1-5-7-6-3-7"
                width="13"
                height="13.000001"
@@ -1596,7 +1596,7 @@
                  id="g5428-8-1-7-83-9">
                 <rect
                    ry="13.246163"
-                   style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#cfd6e6;stroke-width:2.08222365;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+                   style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#D89840;fill-opacity:1;fill-rule:nonzero;stroke:#cfd6e6;stroke-width:2.08222365;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
                    id="rect5147-9-1-7-7-2"
                    width="27.303804"
                    height="26.835888"
@@ -1892,7 +1892,7 @@
       </g>
       <g
          inkscape:label="Ebene 1"
-         id="checkbox-checked-dark-7-3"
+         id="checkbox-checked-syd-7-3"
          transform="translate(36,-1036)"
          style="display:inline">
         <g
@@ -1992,7 +1992,7 @@
       </g>
       <g
          inkscape:label="Ebene 1"
-         id="checkbox-checked-dark-7-9-7"
+         id="checkbox-checked-syd-7-9-7"
          transform="translate(36,-1036)"
          style="display:inline">
         <g
@@ -2202,7 +2202,7 @@
              id="g5400-2-0">
             <rect
                ry="2"
-               style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#ffffff;fill-opacity:0.11764706;stroke:url(#linearGradient6657);stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#D89840;fill-opacity:0.11764706;stroke:url(#linearGradient6657);stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
                id="rect5147-9-1-5-7-6-3-5"
                width="13"
                height="12.999997"
@@ -2242,7 +2242,7 @@
                  id="g5428-8-1-7-83-3">
                 <rect
                    ry="13.246163"
-                   style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#ffffff;fill-opacity:0.11764706;fill-rule:nonzero;stroke:url(#linearGradient6661);stroke-width:2.08222365;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+                   style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#D89840;fill-opacity:0.11764706;fill-rule:nonzero;stroke:url(#linearGradient6661);stroke-width:2.08222365;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
                    id="rect5147-9-1-7-7-6"
                    width="27.303804"
                    height="26.835894"
@@ -2308,7 +2308,7 @@
       </g>
       <g
          inkscape:label="Ebene 1"
-         id="checkbox-checked-dark-7-95-3"
+         id="checkbox-checked-syd-7-95-3"
          transform="translate(36,-1036)"
          style="display:inline">
         <g
@@ -2408,7 +2408,7 @@
       </g>
       <g
          inkscape:label="Ebene 1"
-         id="checkbox-checked-dark-7-9-57-7"
+         id="checkbox-checked-syd-7-9-57-7"
          transform="translate(36,-1036)"
          style="display:inline">
         <g
@@ -2618,7 +2618,7 @@
              id="g5400-2-4-8">
             <rect
                ry="2"
-               style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#ffffff;fill-opacity:0.11764706;stroke:url(#linearGradient6655);stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#D89840;fill-opacity:0.11764706;stroke:url(#linearGradient6655);stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
                id="rect5147-9-1-5-7-6-3-7-5"
                width="13"
                height="13.000001"
@@ -2658,7 +2658,7 @@
                  id="g5428-8-1-7-83-9-8">
                 <rect
                    ry="13.246163"
-                   style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#ffffff;fill-opacity:0.11764706;fill-rule:nonzero;stroke:url(#linearGradient6659);stroke-width:2.08222365;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+                   style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#D89840;fill-opacity:0.11764706;fill-rule:nonzero;stroke:url(#linearGradient6659);stroke-width:2.08222365;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
                    id="rect5147-9-1-7-7-2-3"
                    width="27.303804"
                    height="26.835888"
@@ -2760,7 +2760,7 @@
          height="31"
          width="30.999969"
          id="rect13851-8"
-         style="fill:#ffffff;fill-opacity:1;stroke:#cfd6e6;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="fill:#D89840;fill-opacity:1;stroke:#cfd6e6;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          rx="2" />
       <g
          transform="translate(-2.2045153,1.9730481)"
@@ -2873,7 +2873,7 @@
                x="0"
                y="1029.3622" />
             <rect
-               style="opacity:0.9;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="opacity:0.9;fill:#D89840;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="rect2987-07-5"
                width="50"
                height="20"
@@ -2988,7 +2988,7 @@
                x="0"
                y="1029.3622" />
             <rect
-               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#D89840;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="rect2987-02-7"
                width="50"
                height="20"
@@ -3037,45 +3037,45 @@
         <g
            id="g4778-2-68"
            transform="translate(1323,246.86719)"
-           style="fill:#ffffff;fill-opacity:1">
+           style="fill:#D89840;fill-opacity:1">
           <g
-             style="display:inline;fill:#ffffff;fill-opacity:1"
+             style="display:inline;fill:#D89840;fill-opacity:1"
              id="layer9-9-4-4"
              transform="translate(-60,-518)" />
           <g
              id="layer10-2-1-8"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer11-16-4-9"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              transform="matrix(0.75,0,0,0.75,2,2.0546875)"
              id="g2996-76-5"
-             style="fill:#ffffff;fill-opacity:1">
+             style="fill:#D89840;fill-opacity:1">
             <g
                transform="translate(-60,-518)"
                id="layer12-4-5-7"
-               style="fill:#ffffff;fill-opacity:1">
+               style="fill:#D89840;fill-opacity:1">
               <g
                  transform="translate(19,-242)"
                  id="layer4-4-1-9-5"
-                 style="display:inline;fill:#ffffff;fill-opacity:1" />
+                 style="display:inline;fill:#D89840;fill-opacity:1" />
             </g>
           </g>
           <g
              id="layer13-2-6-11"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer14-4-0-33"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer15-7-3-0"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
         </g>
       </g>
       <rect
@@ -3150,45 +3150,45 @@
         <g
            id="g4778-4"
            transform="translate(1323,246.86719)"
-           style="fill:#ffffff;fill-opacity:1">
+           style="fill:#D89840;fill-opacity:1">
           <g
-             style="display:inline;fill:#ffffff;fill-opacity:1"
+             style="display:inline;fill:#D89840;fill-opacity:1"
              id="layer9-9-44"
              transform="translate(-60,-518)" />
           <g
              id="layer10-2-9"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer11-16-3"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              transform="matrix(0.75,0,0,0.75,2,2.0546875)"
              id="g2996-9"
-             style="fill:#ffffff;fill-opacity:1">
+             style="fill:#D89840;fill-opacity:1">
             <g
                transform="translate(-60,-518)"
                id="layer12-4-7"
-               style="fill:#ffffff;fill-opacity:1">
+               style="fill:#D89840;fill-opacity:1">
               <g
                  transform="translate(19,-242)"
                  id="layer4-4-1-3"
-                 style="display:inline;fill:#ffffff;fill-opacity:1" />
+                 style="display:inline;fill:#D89840;fill-opacity:1" />
             </g>
           </g>
           <g
              id="layer13-2-02"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer14-4-7"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer15-7-4"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
         </g>
       </g>
       <rect
@@ -3215,7 +3215,7 @@
         <ellipse
            cy="255"
            cx="1302"
-           style="display:inline;opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="display:inline;opacity:0.95;fill:#D89840;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path4068-7-5-9-6-7-2-4"
            rx="6"
            ry="6.0000005" />
@@ -3301,7 +3301,7 @@
         <ellipse
            cy="255"
            cx="1273"
-           style="display:inline;opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="display:inline;opacity:0.95;fill:#D89840;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path4068-7-5-9-6-7-2-1"
            rx="6"
            ry="6.0000005" />
@@ -3403,51 +3403,51 @@
         <g
            id="g4778-3-6"
            transform="translate(1323,246.86719)"
-           style="fill:#ffffff;fill-opacity:1">
+           style="fill:#D89840;fill-opacity:1">
           <g
-             style="display:inline;fill:#ffffff;fill-opacity:1"
+             style="display:inline;fill:#D89840;fill-opacity:1"
              id="layer9-9-6-0"
              transform="translate(-60,-518)" />
           <g
              id="layer10-2-3-6"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer11-16-2-2"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              transform="matrix(0.75,0,0,0.75,2,2.0546875)"
              id="g2996-7-0"
-             style="fill:#ffffff;fill-opacity:1">
+             style="fill:#D89840;fill-opacity:1">
             <g
                transform="translate(-60,-518)"
                id="layer12-4-6-3"
-               style="fill:#ffffff;fill-opacity:1">
+               style="fill:#D89840;fill-opacity:1">
               <g
                  transform="translate(19,-242)"
                  id="layer4-4-1-4-1"
-                 style="display:inline;fill:#ffffff;fill-opacity:1">
+                 style="display:inline;fill:#D89840;fill-opacity:1">
                 <path
                    inkscape:connector-curvature="0"
                    d="m 45,764 1,0 c 0.01037,-1.2e-4 0.02079,-4.6e-4 0.03125,0 0.254951,0.0112 0.50987,0.12858 0.6875,0.3125 L 49,766.59375 51.3125,764.3125 C 51.578125,764.082 51.759172,764.007 52,764 l 1,0 0,1 c 0,0.28647 -0.03434,0.55065 -0.25,0.75 l -2.28125,2.28125 2.25,2.25 C 52.906938,770.46942 52.999992,770.7347 53,771 l 0,1 -1,0 c -0.265301,-10e-6 -0.530586,-0.0931 -0.71875,-0.28125 L 49,769.4375 46.71875,771.71875 C 46.530586,771.90694 46.26529,772 46,772 l -1,0 0,-1 c -3e-6,-0.26529 0.09306,-0.53058 0.28125,-0.71875 l 2.28125,-2.25 L 45.28125,765.75 C 45.070508,765.55537 44.97809,765.28075 45,765 l 0,-1 z"
                    id="path10839-9-8-7"
-                   style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new" />
+                   style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#D89840;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new" />
               </g>
             </g>
           </g>
           <g
              id="layer13-2-0-2"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer14-4-4-0"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer15-7-5-0"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
         </g>
       </g>
       <rect
@@ -3717,7 +3717,7 @@
     <g
        transform="translate(220.00001,-229.00001)"
        style="display:inline;opacity:1"
-       id="checkbox-checked-dark"
+       id="checkbox-checked-syd"
        inkscape:label="#g10758">
       <g
          inkscape:label="#g22047"
@@ -3767,7 +3767,7 @@
       </g>
       <g
          inkscape:label="Ebene 1"
-         id="checkbox-checked-dark-7-37"
+         id="checkbox-checked-syd-7-37"
          transform="translate(36,-1036)"
          style="display:inline">
         <g
@@ -3817,7 +3817,7 @@
     <g
        transform="translate(239.00001,-229.00001)"
        style="display:inline;opacity:1"
-       id="checkbox-mixed-dark"
+       id="checkbox-mixed-syd"
        inkscape:label="#g10758">
       <g
          inkscape:label="#g22047"
@@ -3867,7 +3867,7 @@
       </g>
       <g
          inkscape:label="Ebene 1"
-         id="checkbox-checked-dark-7-9-3"
+         id="checkbox-checked-syd-7-9-3"
          transform="translate(36,-1036)"
          style="display:inline">
         <g
@@ -3909,7 +3909,7 @@
     <g
        transform="translate(201.00001,-229.00001)"
        style="display:inline;opacity:1"
-       id="radio-checked-dark"
+       id="radio-checked-syd"
        inkscape:label="#g11094">
       <g
          transform="translate(19.004264,-4.6992607e-6)"
@@ -3979,7 +3979,7 @@
     <g
        transform="translate(201.00001,-229.00001)"
        style="display:inline;opacity:1"
-       id="radio-mixed-dark"
+       id="radio-mixed-syd"
        inkscape:label="#g11194">
       <g
          id="g11220-5">
@@ -4045,7 +4045,7 @@
     <g
        transform="translate(-767.99998,-618.63782)"
        style="display:inline;opacity:1"
-       id="switch-active-dark"
+       id="switch-active-syd"
        inkscape:label="#g4829">
       <g
          id="layer1-9-0-51"
@@ -4112,7 +4112,7 @@
     <g
        transform="translate(-767.99998,-613.63782)"
        style="display:inline;opacity:1"
-       id="switch-dark"
+       id="switch-syd"
        inkscape:label="#g4820">
       <g
          id="layer1-9-13"
@@ -4160,7 +4160,7 @@
     <g
        transform="translate(-704.99998,-618.63782)"
        style="display:inline;opacity:0.55"
-       id="switch-active-insensitive-dark"
+       id="switch-active-insensitive-syd"
        inkscape:label="#g4829-8">
       <g
          id="layer1-9-0-5-7"
@@ -4227,7 +4227,7 @@
     <g
        transform="translate(-704.99998,-613.63782)"
        style="display:inline;opacity:0.55"
-       id="switch-insensitive-dark"
+       id="switch-insensitive-syd"
        inkscape:label="#g4820-8">
       <g
          id="layer1-9-1-3"
@@ -4275,7 +4275,7 @@
     <g
        transform="translate(220.00001,-229.00001)"
        style="display:inline;opacity:1"
-       id="checkbox-unchecked-dark"
+       id="checkbox-unchecked-syd"
        inkscape:label="#g22047">
       <g
          inkscape:label="#g21853"
@@ -4321,7 +4321,7 @@
     <g
        transform="translate(200.00428,-229.00401)"
        style="display:inline;opacity:1"
-       id="radio-unchecked-dark"
+       id="radio-unchecked-syd"
        inkscape:label="#g10975">
       <g
          id="g10964-4-5">
@@ -4363,7 +4363,7 @@
     <g
        transform="translate(220.00001,-210.00002)"
        style="display:inline;opacity:0.55"
-       id="checkbox-checked-insensitive-dark"
+       id="checkbox-checked-insensitive-syd"
        inkscape:label="#g10758">
       <g
          inkscape:label="#g22047"
@@ -4413,7 +4413,7 @@
       </g>
       <g
          inkscape:label="Ebene 1"
-         id="checkbox-checked-dark-7-95-4"
+         id="checkbox-checked-syd-7-95-4"
          transform="translate(36,-1036)"
          style="display:inline">
         <g
@@ -4463,7 +4463,7 @@
     <g
        transform="translate(239.00001,-210.00002)"
        style="display:inline;opacity:0.55"
-       id="checkbox-mixed-insensitive-dark"
+       id="checkbox-mixed-insensitive-syd"
        inkscape:label="#g10758">
       <g
          inkscape:label="#g22047"
@@ -4513,7 +4513,7 @@
       </g>
       <g
          inkscape:label="Ebene 1"
-         id="checkbox-checked-dark-7-9-57-75"
+         id="checkbox-checked-syd-7-9-57-75"
          transform="translate(36,-1036)"
          style="display:inline">
         <g
@@ -4555,7 +4555,7 @@
     <g
        transform="translate(201.00001,-210.00002)"
        style="display:inline;opacity:0.55"
-       id="radio-checked-insensitive-dark"
+       id="radio-checked-insensitive-syd"
        inkscape:label="#g11094">
       <g
          transform="translate(19.004264,-4.6992607e-6)"
@@ -4625,7 +4625,7 @@
     <g
        transform="translate(201.00001,-210.00002)"
        style="display:inline;opacity:0.55"
-       id="radio-mixed-insensitive-dark"
+       id="radio-mixed-insensitive-syd"
        inkscape:label="#g11194">
       <g
          id="g11220-22-7">
@@ -4691,7 +4691,7 @@
     <g
        transform="translate(220.00001,-210.00002)"
        style="display:inline;opacity:0.6"
-       id="checkbox-unchecked-insensitive-dark"
+       id="checkbox-unchecked-insensitive-syd"
        inkscape:label="#g22047">
       <g
          inkscape:label="#g21853"
@@ -4741,7 +4741,7 @@
     <g
        transform="translate(200.00428,-210.00001)"
        style="display:inline;opacity:0.6"
-       id="radio-unchecked-insensitive-dark"
+       id="radio-unchecked-insensitive-syd"
        inkscape:label="#g10975">
       <g
          id="g10964-4-8-3"
@@ -4785,7 +4785,7 @@
     </g>
     <g
        style="display:inline"
-       id="checkbox-checked-selectionmode-dark"
+       id="checkbox-checked-selectionmode-syd"
        transform="translate(-227.99998,-369)"
        inkscape:label="#g14055">
       <rect
@@ -4818,7 +4818,7 @@
     </g>
     <g
        style="display:inline"
-       id="checkbox-selectionmode-dark"
+       id="checkbox-selectionmode-syd"
        transform="translate(-182.99998,-369)"
        inkscape:label="#g14055">
       <rect
@@ -4859,7 +4859,7 @@
     <g
        transform="translate(-646.99998,-618.63782)"
        style="display:inline;opacity:1"
-       id="switch-active-header-dark"
+       id="switch-active-header-syd"
        inkscape:label="#g4829">
       <g
          id="layer1-9-0-8-3-1"
@@ -4926,7 +4926,7 @@
     <g
        transform="translate(-646.99998,-613.63782)"
        style="display:inline;opacity:1"
-       id="switch-header-dark"
+       id="switch-header-syd"
        inkscape:label="#g4820">
       <g
          id="layer1-9-4-5-1"
@@ -4974,7 +4974,7 @@
     <g
        transform="translate(-584,-618.63782)"
        style="display:inline;opacity:0.55"
-       id="switch-active-insensitive-header-dark"
+       id="switch-active-insensitive-header-syd"
        inkscape:label="#g4829-8">
       <g
          id="layer1-9-0-5-9-3-1"
@@ -5041,7 +5041,7 @@
     <g
        transform="translate(-584,-613.63782)"
        style="display:inline;opacity:0.55"
-       id="switch-insensitive-header-dark"
+       id="switch-insensitive-header-syd"
        inkscape:label="#g4820-8">
       <g
          id="layer1-9-1-6-2-5"
@@ -5088,7 +5088,7 @@
     </g>
     <g
        style="display:inline;opacity:0.7"
-       id="titlebutton-minimize-dark"
+       id="titlebutton-minimize-syd"
        inkscape:label="#g6247"
        transform="translate(-229.00002,-43.000019)">
       <g
@@ -5121,7 +5121,7 @@
     </g>
     <g
        style="display:inline"
-       id="titlebutton-close-dark"
+       id="titlebutton-close-syd"
        inkscape:label="#g6210"
        transform="translate(-247.00002,-43.000019)">
       <g
@@ -5146,45 +5146,45 @@
         <g
            id="g4778-2-68-8-7"
            transform="translate(1323,246.86719)"
-           style="fill:#ffffff;fill-opacity:1">
+           style="fill:#D89840;fill-opacity:1">
           <g
-             style="display:inline;fill:#ffffff;fill-opacity:1"
+             style="display:inline;fill:#D89840;fill-opacity:1"
              id="layer9-9-4-4-1-1"
              transform="translate(-60,-518)" />
           <g
              id="layer10-2-1-8-0-4"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer11-16-4-9-6-9"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              transform="matrix(0.75,0,0,0.75,2,2.0546875)"
              id="g2996-76-5-96-3"
-             style="fill:#ffffff;fill-opacity:1">
+             style="fill:#D89840;fill-opacity:1">
             <g
                transform="translate(-60,-518)"
                id="layer12-4-5-7-9-4"
-               style="fill:#ffffff;fill-opacity:1">
+               style="fill:#D89840;fill-opacity:1">
               <g
                  transform="translate(19,-242)"
                  id="layer4-4-1-9-5-6-3"
-                 style="display:inline;fill:#ffffff;fill-opacity:1" />
+                 style="display:inline;fill:#D89840;fill-opacity:1" />
             </g>
           </g>
           <g
              id="layer13-2-6-11-3-1"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer14-4-0-33-2-4"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer15-7-3-0-6-6"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
         </g>
       </g>
       <rect
@@ -5197,7 +5197,7 @@
     </g>
     <g
        style="display:inline;opacity:0.7"
-       id="titlebutton-maximize-dark"
+       id="titlebutton-maximize-syd"
        inkscape:label="#g6234"
        transform="translate(-238.00002,-43.000019)">
       <g
@@ -5230,7 +5230,7 @@
     </g>
     <g
        style="display:inline"
-       id="titlebutton-close-hover-dark"
+       id="titlebutton-close-hover-syd"
        inkscape:label="#g6260"
        transform="translate(-144.00001,-9.0000206)">
       <g
@@ -5255,45 +5255,45 @@
         <g
            id="g4778-4-0-2"
            transform="translate(1323,246.86719)"
-           style="fill:#ffffff;fill-opacity:1">
+           style="fill:#D89840;fill-opacity:1">
           <g
-             style="display:inline;fill:#ffffff;fill-opacity:1"
+             style="display:inline;fill:#D89840;fill-opacity:1"
              id="layer9-9-44-1-6"
              transform="translate(-60,-518)" />
           <g
              id="layer10-2-9-3-3"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer11-16-3-1-7"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              transform="matrix(0.75,0,0,0.75,2,2.0546875)"
              id="g2996-9-3-3"
-             style="fill:#ffffff;fill-opacity:1">
+             style="fill:#D89840;fill-opacity:1">
             <g
                transform="translate(-60,-518)"
                id="layer12-4-7-1-2"
-               style="fill:#ffffff;fill-opacity:1">
+               style="fill:#D89840;fill-opacity:1">
               <g
                  transform="translate(19,-242)"
                  id="layer4-4-1-3-3-7"
-                 style="display:inline;fill:#ffffff;fill-opacity:1" />
+                 style="display:inline;fill:#D89840;fill-opacity:1" />
             </g>
           </g>
           <g
              id="layer13-2-02-1-6"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer14-4-7-9-6"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer15-7-4-7-9"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
         </g>
       </g>
       <rect
@@ -5306,7 +5306,7 @@
     </g>
     <g
        style="display:inline"
-       id="titlebutton-maximize-hover-dark"
+       id="titlebutton-maximize-hover-syd"
        inkscape:label="#g6284"
        transform="translate(-135.00001,-9.0000206)">
       <g
@@ -5393,7 +5393,7 @@
     </g>
     <g
        style="display:inline"
-       id="titlebutton-minimize-hover-dark"
+       id="titlebutton-minimize-hover-syd"
        inkscape:label="#g6308"
        transform="translate(-126.00001,-9.0000206)">
       <g
@@ -5480,7 +5480,7 @@
     </g>
     <g
        style="display:inline"
-       id="titlebutton-close-active-dark"
+       id="titlebutton-close-active-syd"
        inkscape:label="#g6332"
        transform="translate(-43.000017,7.9999889)">
       <g
@@ -5505,45 +5505,45 @@
         <g
            id="g4778-3-6-0-5"
            transform="translate(1323,246.86719)"
-           style="fill:#ffffff;fill-opacity:1">
+           style="fill:#D89840;fill-opacity:1">
           <g
-             style="display:inline;fill:#ffffff;fill-opacity:1"
+             style="display:inline;fill:#D89840;fill-opacity:1"
              id="layer9-9-6-0-90-6"
              transform="translate(-60,-518)" />
           <g
              id="layer10-2-3-6-6-1"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer11-16-2-2-6-9"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              transform="matrix(0.75,0,0,0.75,2,2.0546875)"
              id="g2996-7-0-2-0"
-             style="fill:#ffffff;fill-opacity:1">
+             style="fill:#D89840;fill-opacity:1">
             <g
                transform="translate(-60,-518)"
                id="layer12-4-6-3-5-2"
-               style="fill:#ffffff;fill-opacity:1">
+               style="fill:#D89840;fill-opacity:1">
               <g
                  transform="translate(19,-242)"
                  id="layer4-4-1-4-1-7-0"
-                 style="display:inline;fill:#ffffff;fill-opacity:1" />
+                 style="display:inline;fill:#D89840;fill-opacity:1" />
             </g>
           </g>
           <g
              id="layer13-2-0-2-8-3"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer14-4-4-0-5-8"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer15-7-5-0-0-9"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
         </g>
       </g>
       <rect
@@ -5556,7 +5556,7 @@
     </g>
     <g
        style="display:inline"
-       id="titlebutton-maximize-active-dark"
+       id="titlebutton-maximize-active-syd"
        inkscape:label="#g6356"
        transform="translate(-34.000017,7.9999889)">
       <g
@@ -5647,7 +5647,7 @@
     </g>
     <g
        style="display:inline"
-       id="titlebutton-minimize-active-dark"
+       id="titlebutton-minimize-active-syd"
        inkscape:label="#g6414"
        transform="translate(-25.000017,7.9999889)">
       <g
@@ -5737,7 +5737,7 @@
          y="-185.63782" />
     </g>
     <g
-       id="titlebutton-maximize-backdrop-dark"
+       id="titlebutton-maximize-backdrop-syd"
        inkscape:label="#g6521"
        style="display:inline;opacity:0.4"
        transform="translate(-238.00002,-43.000019)">
@@ -5770,7 +5770,7 @@
          y="-168.63782" />
     </g>
     <g
-       id="titlebutton-minimize-backdrop-dark"
+       id="titlebutton-minimize-backdrop-syd"
        inkscape:label="#g6534"
        style="display:inline;opacity:0.4"
        transform="translate(-229.00002,-43.000019)">
@@ -5830,45 +5830,45 @@
         <g
            id="g4778-2-68-3"
            transform="translate(1323,246.86719)"
-           style="fill:#ffffff;fill-opacity:1">
+           style="fill:#D89840;fill-opacity:1">
           <g
-             style="display:inline;fill:#ffffff;fill-opacity:1"
+             style="display:inline;fill:#D89840;fill-opacity:1"
              id="layer9-9-4-4-5"
              transform="translate(-60,-518)" />
           <g
              id="layer10-2-1-8-2"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer11-16-4-9-8"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              transform="matrix(0.75,0,0,0.75,2,2.0546875)"
              id="g2996-76-5-4"
-             style="fill:#ffffff;fill-opacity:1">
+             style="fill:#D89840;fill-opacity:1">
             <g
                transform="translate(-60,-518)"
                id="layer12-4-5-7-9"
-               style="fill:#ffffff;fill-opacity:1">
+               style="fill:#D89840;fill-opacity:1">
               <g
                  transform="translate(19,-242)"
                  id="layer4-4-1-9-5-3"
-                 style="display:inline;fill:#ffffff;fill-opacity:1" />
+                 style="display:inline;fill:#D89840;fill-opacity:1" />
             </g>
           </g>
           <g
              id="layer13-2-6-11-6"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer14-4-0-33-0"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer15-7-3-0-7"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
         </g>
       </g>
       <rect
@@ -5886,7 +5886,7 @@
     </g>
     <g
        style="display:inline;opacity:0.4"
-       id="titlebutton-close-backdrop-dark"
+       id="titlebutton-close-backdrop-syd"
        inkscape:label="#g6210"
        transform="translate(-247.00002,-26.000003)">
       <g
@@ -5912,45 +5912,45 @@
         <g
            id="g4778-2-68-8-7-6"
            transform="translate(1323,246.86719)"
-           style="fill:#ffffff;fill-opacity:1">
+           style="fill:#D89840;fill-opacity:1">
           <g
-             style="display:inline;fill:#ffffff;fill-opacity:1"
+             style="display:inline;fill:#D89840;fill-opacity:1"
              id="layer9-9-4-4-1-1-0"
              transform="translate(-60,-518)" />
           <g
              id="layer10-2-1-8-0-4-0"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer11-16-4-9-6-9-6"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              transform="matrix(0.75,0,0,0.75,2,2.0546875)"
              id="g2996-76-5-96-3-0"
-             style="fill:#ffffff;fill-opacity:1">
+             style="fill:#D89840;fill-opacity:1">
             <g
                transform="translate(-60,-518)"
                id="layer12-4-5-7-9-4-0"
-               style="fill:#ffffff;fill-opacity:1">
+               style="fill:#D89840;fill-opacity:1">
               <g
                  transform="translate(19,-242)"
                  id="layer4-4-1-9-5-6-3-3"
-                 style="display:inline;fill:#ffffff;fill-opacity:1" />
+                 style="display:inline;fill:#D89840;fill-opacity:1" />
             </g>
           </g>
           <g
              id="layer13-2-6-11-3-1-8"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer14-4-0-33-2-4-4"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
           <g
              id="layer15-7-3-0-6-6-6"
              transform="translate(-60,-518)"
-             style="fill:#ffffff;fill-opacity:1" />
+             style="fill:#D89840;fill-opacity:1" />
         </g>
       </g>
       <rect

@@ -4,8 +4,8 @@
 
 $ease-out-quad: cubic-bezier(0.25, 0.46, 0.45, 0.94);
 $backdrop_transition: 200ms ease-out;
-$asset_suffix: if($variant=='dark', '-dark', ''); // use dark assets in dark variant
-$darker_asset_suffix: if($darker=='true', '-dark', $asset_suffix);
+$asset_suffix: if($variant=='syd', '-syd', ''); // use syd assets in syd variant
+$darker_asset_suffix: if($darker=='true', '-syd', $asset_suffix);
 
 * {
   background-clip: padding-box;
@@ -1250,7 +1250,7 @@ headerbar {
   // use linking rules for entries only
   .linked:not(.vertical):not(.path-bar) {
     @include linking_rules( $a:0.5,
-                            $var:if($variant=='light' and $darker=='false', 'light', 'dark'),
+                            $var:if($variant=='light' and $darker=='false', 'light', 'syd'),
                             $button_rules:'false',
                             $e_border:$header_entry_border,
                             $b_border:$header_button_border );
@@ -2033,8 +2033,8 @@ switch {
     .osd,
     %osd_check_radio {
       #{$w}#{$s} {
-        -gtk-icon-source: -gtk-scaled(url("assets/#{$a}#{$as}-dark.png"),
-                                      url("assets/#{$a}#{$as}-dark@2.png"));
+        -gtk-icon-source: -gtk-scaled(url("assets/#{$a}#{$as}-syd.png"),
+                                      url("assets/#{$a}#{$as}-syd@2.png"));
       }
     }
     // the borders of checks and radios are
@@ -2492,13 +2492,13 @@ row {
 //
 .app-notification {
   padding: 10px;
-  color: $dark_sidebar_fg;
-  background-color: $dark_sidebar_bg;
+  color: $syd_sidebar_fg;
+  background-color: $syd_sidebar_bg;
   background-clip: border-box;
   border-radius: 0 0 2px 2px;
   border-width: 0 1px 1px 1px;
   border-style: solid;
-  border-color: darken($dark_sidebar_bg, 10%);
+  border-color: darken($syd_sidebar_bg, 10%);
 
   border { border: none; }
 
@@ -2950,7 +2950,7 @@ colorswatch {
     }
   }
 
-  &.dark overlay {
+  &.syd overlay {
     color: transparentize(white, 0.3);
     &:hover {
       border-color: if($variant == 'light', transparentize(black, 0.5), $borders_color);
@@ -3076,7 +3076,7 @@ decoration {
 
   $_wm_border: if($variant=='light', transparentize(black, 0.9), transparentize(black, 0.45));
 
-  box-shadow: 0 0 0 1px if($darker=='true' or $variant == 'dark', darken($header_bg, 7%), $_wm_border),
+  box-shadow: 0 0 0 1px if($darker=='true' or $variant == 'syd', darken($header_bg, 7%), $_wm_border),
               0 8px 8px 0 if($variant == 'light', opacify($_wm_border, 0.1), transparentize($_wm_border, 0.2));
 
   // this is used for the resize cursor area
@@ -3085,7 +3085,7 @@ decoration {
   &:backdrop {
     // the transparent shadow here is to enforce that the shadow extents don't
     // change when we go to backdrop, to prevent jumping windows
-    box-shadow: 0 0 0 1px if($darker=='true' or $variant == 'dark', transparentize(darken($header_bg, 7%), 0.1), $_wm_border),
+    box-shadow: 0 0 0 1px if($darker=='true' or $variant == 'syd', transparentize(darken($header_bg, 7%), 0.1), $_wm_border),
                 0 8px 8px 0 transparent,
                 0 5px 5px 0 if($variant == 'light', opacify($_wm_border, 0.1), transparentize($_wm_border, 0.2));
 
@@ -3102,7 +3102,7 @@ decoration {
   // server-side decorations as used by mutter
   .ssd & {
     border-radius: if($darker=='false' and $variant=='light', 4px 4px 0 0, 3px 3px 0 0);
-    box-shadow: 0 0 0 1px if($darker=='true' or $variant == 'dark', transparentize(black, 0.35), $_wm_border);
+    box-shadow: 0 0 0 1px if($darker=='true' or $variant == 'syd', transparentize(black, 0.35), $_wm_border);
 
     &.maximized { border-radius: 0; }
   }

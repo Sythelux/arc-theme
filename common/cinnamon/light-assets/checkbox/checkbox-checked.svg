@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="checkbox-checked.svg"
-   inkscape:export-filename="/home/steffen/.local/share/themes/Vertex-git/gtk-3.0/assets/dark/checkbox-checked.png"
+   inkscape:export-filename="/home/steffen/.local/share/themes/Vertex-git/gtk-3.0/assets/syd/checkbox-checked.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -26,7 +26,7 @@
        id="selected_fg_color"
        osb:paint="solid">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#D89840;stop-opacity:1;"
          offset="0"
          id="stop4169" />
     </linearGradient>
@@ -34,7 +34,7 @@
        id="selected_bg_color"
        osb:paint="solid">
       <stop
-         style="stop-color:#5294e2;stop-opacity:1;"
+         style="stop-color:#61806a;stop-opacity:1;"
          offset="0"
          id="stop4166" />
     </linearGradient>
@@ -109,7 +109,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#D89840"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
@@ -118,7 +118,7 @@
      inkscape:cx="-16.237251"
      inkscape:cy="2.8983635"
      inkscape:document-units="px"
-     inkscape:current-layer="checkbox-checked-dark"
+     inkscape:current-layer="checkbox-checked-syd"
      showgrid="true"
      inkscape:snap-bbox="true"
      showguides="true"
@@ -160,7 +160,7 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <g
-       id="checkbox-checked-dark"
+       id="checkbox-checked-syd"
        inkscape:label="Ebene 1"
        transform="translate(16.837126,14.010408)">
       <g
@@ -216,7 +216,7 @@
         </g>
         <g
            inkscape:label="Ebene 1"
-           id="checkbox-checked-dark-7"
+           id="checkbox-checked-syd-7"
            transform="translate(36,-1036)"
            style="display:inline">
           <g

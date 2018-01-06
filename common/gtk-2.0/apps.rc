@@ -3,13 +3,13 @@
 #
 style "thunar-handle" { GtkPaned::handle-size = 2 }
 
-style "dark-sidebar" {
-  GtkTreeView::odd_row_color = @dark_sidebar_bg
-  GtkTreeView::even_row_color = @dark_sidebar_bg
+style "syd-sidebar" {
+  GtkTreeView::odd_row_color = @syd_sidebar_bg
+  GtkTreeView::even_row_color = @syd_sidebar_bg
 
 
-  base[NORMAL] = @dark_sidebar_bg
-  base[INSENSITIVE] = @dark_sidebar_bg
+  base[NORMAL] = @syd_sidebar_bg
+  base[INSENSITIVE] = @syd_sidebar_bg
 
   text[NORMAL] = "#BAC3CF"
   text[ACTIVE] = @selected_fg_color
@@ -22,8 +22,8 @@ style "thunar-frame" {
 }
 
 widget_class "*ThunarWindow*.<GtkScrolledWindow>"       style "thunar-frame"
-widget_class "*ThunarShortcutsView*"                    style "dark-sidebar"
-widget_class "*ThunarTreeView*"                         style "dark-sidebar"
+widget_class "*ThunarShortcutsView*"                    style "syd-sidebar"
+widget_class "*ThunarTreeView*"                         style "syd-sidebar"
 widget_class "*ThunarWindow*.<GtkHPaned>"               style "thunar-handle"
 
 #

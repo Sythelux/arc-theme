@@ -155,7 +155,7 @@ class "ChromeGtkFrame"                                              style "chrom
 
 widget_class "*<GtkMenuBar>*<GtkMenuItem>*<GtkAccelLabel>"          style "menubar-text"
 
-# Whitelist for dark toolbars
+# Whitelist for syd toolbars
 widget_class "*ThunarWindow*<GtkMenuBar>"                           style "menubar-borderless"
 widget_class "*CajaNavigationWindow*<GtkMenuBar>"                   style "menubar-borderless"
 widget_class "*ThunarWindow*<GtkToolbar>*<GtkEntry>"                style "toolbar_entry"

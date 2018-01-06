@@ -32,22 +32,22 @@
     <linearGradient
        id="linearGradient4882">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#D89840;stop-opacity:1;"
          offset="0"
          id="stop4884" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#D89840;stop-opacity:0;"
          offset="1"
          id="stop4886" />
     </linearGradient>
     <linearGradient
        id="linearGradient3784-6">
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.21568628;"
+         style="stop-color:#D89840;stop-opacity:0.21568628;"
          offset="0"
          id="stop3786-4" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#D89840;stop-opacity:0;"
          offset="1"
          id="stop3788-6" />
     </linearGradient>
@@ -135,7 +135,7 @@
      transform="translate(0,-1028.3622)">
     <g
        style="display:inline;opacity:0.7"
-       id="titlebutton-min-dark"
+       id="titlebutton-min-syd"
        inkscape:label="#g6247"
        transform="translate(-583.00002,1218)">
       <g

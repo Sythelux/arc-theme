@@ -31,7 +31,7 @@
     border-color: if($variant=='light', $selected_bg_color, $button_border);
     background-color: $entry_bg;
 
-    @if $variant == 'dark' {
+    @if $variant == 'syd' {
       box-shadow: inset 1px 0 $selected_bg_color,
                   inset -1px 0 $selected_bg_color,
                   inset 0 1px $selected_bg_color,
@@ -324,7 +324,7 @@
 // top, bottom, right, left
 //
 
-  $_undershoot_color_dark: transparentize(black, 0.8);
+  $_undershoot_color_syd: transparentize(black, 0.8);
   $_undershoot_color_light: transparentize(white, 0.8);
 
   $_gradient_dir: left;
@@ -343,7 +343,7 @@
 
   background-image: linear-gradient(to $_gradient_dir, // this is the dashed line
                                     $_undershoot_color_light 50%,
-                                    $_undershoot_color_dark 50%);
+                                    $_undershoot_color_syd 50%);
 
   padding-#{$p}: 1px;
   background-size: $_dash_bg_size;

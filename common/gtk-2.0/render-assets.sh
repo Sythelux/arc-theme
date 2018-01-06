@@ -6,8 +6,8 @@ OPTIPNG="/usr/bin/optipng"
 SRC_FILE="assets.svg"
 ASSETS_DIR="assets"
 
-DARK_SRC_FILE="assets-dark.svg"
-DARK_ASSETS_DIR="assets-dark"
+DARK_SRC_FILE="assets-syd.svg"
+DARK_ASSETS_DIR="assets-syd"
 
 INDEX="assets.txt"
 
@@ -50,11 +50,11 @@ cp $DARK_ASSETS_DIR/button-hover.png menubar-toolbar/button-hover.png
 cp $DARK_ASSETS_DIR/button-active.png menubar-toolbar/button-active.png
 cp $DARK_ASSETS_DIR/button-insensitive.png menubar-toolbar/button-insensitive.png
 
-cp $DARK_ASSETS_DIR/entry-toolbar.png menubar-toolbar/entry-toolbar-dark.png
-cp $DARK_ASSETS_DIR/entry-active-toolbar.png menubar-toolbar/entry-active-toolbar-dark.png
-cp $DARK_ASSETS_DIR/entry-disabled-toolbar.png menubar-toolbar/entry-disabled-toolbar-dark.png
+cp $DARK_ASSETS_DIR/entry-toolbar.png menubar-toolbar/entry-toolbar-syd.png
+cp $DARK_ASSETS_DIR/entry-active-toolbar.png menubar-toolbar/entry-active-toolbar-syd.png
+cp $DARK_ASSETS_DIR/entry-disabled-toolbar.png menubar-toolbar/entry-disabled-toolbar-syd.png
 
-cp $DARK_ASSETS_DIR/menubar.png menubar-toolbar/menubar-dark.png
-cp $DARK_ASSETS_DIR/menubar_button.png menubar-toolbar/menubar_button-dark.png
+cp $DARK_ASSETS_DIR/menubar.png menubar-toolbar/menubar-syd.png
+cp $DARK_ASSETS_DIR/menubar_button.png menubar-toolbar/menubar_button-syd.png
 
 exit 0

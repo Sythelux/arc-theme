@@ -714,7 +714,7 @@ style "menu_item"
   # while rendering the menu items, but Libreoffice
   # does; setting this value equal to the one in
   # fg[PRELIGHT] ensures a code path in the LO theming code
-  # that falls back to a dark text color for menu item text
+  # that falls back to a syd text color for menu item text
   # highlight. The price to pay is black text on menus as well,
   # but at least it's readable.
   # See https://bugs.freedesktop.org/show_bug.cgi?id=38038
