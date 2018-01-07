@@ -56,27 +56,27 @@
       <stop
          id="stop4894"
          offset="0"
-         style="stop-color:#2f3a42;stop-opacity:1;" />
+         style="stop-color:#2F423A;stop-opacity:1;" />
       <stop
          id="stop4896"
          offset="1"
-         style="stop-color:#1d242a;stop-opacity:1;" />
+         style="stop-color:#1D2A24;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4882-4">
       <stop
          id="stop4884-9"
          offset="0"
-         style="stop-color:#728495;stop-opacity:1;" />
+         style="stop-color:#729584;stop-opacity:1;" />
       <stop
          id="stop4886-9"
          offset="1"
-         style="stop-color:#617c95;stop-opacity:0;" />
+         style="stop-color:#61957C;stop-opacity:0;" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#f0f1f2"
+     pagecolor="#F0F2F1"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="1"
