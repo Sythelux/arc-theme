@@ -1,3 +1,12 @@
 #!/bin/bash
 
-find `pwd` -type f -print0 | xargs -0 sed -i "s/$1/$2/g"
+TFILE=`mktemp --tmpdir tfile.XXXXX`
+trap "rm -f $TFILE" 0 1 2 3 15
+
+find `pwd` -type f -not -path '*/\.*' | 
+while read fn; do
+	#echo $fn
+	sed "s/$1/$2/g" $fn > "$TFILE"
+	#echo `cat "$TFILE"`
+	cat "$TFILE" > $fn
+done;
